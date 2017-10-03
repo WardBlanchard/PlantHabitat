@@ -1,0 +1,7697 @@
+var myvar = [
+{
+   "english name":"field maple "
+  ,"latin name":"Acer campestre"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"field maple "
+  ,"latin name":"Acer campestre  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"sycamore "
+  ,"latin name":"Acer pseudoplatanus "
+  ,"substrate":"ubiquitous"
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"yarrow  "
+  ,"latin name":"Achilea millefolium   "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sneezewort "
+  ,"latin name":"Achillea ptarmica"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"wolfsbane  "
+  ,"latin name":"Aconitum vulparia   "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"maidenhair fern "
+  ,"latin name":"Adiantum capillus-veneris"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"humid"
+  ,"physical":"sheltered"
+  ,"size":"fern"
+},
+{
+   "english name":"moschatel "
+  ,"latin name":"Adoxa moschatellina"
+  ,"substrate":""
+  ,"type":"wood"
+  ,"environment":"shady"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"velvet bent "
+  ,"latin name":"Agrostis canina"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog / moor"
+  ,"size":"grass"
+},
+{
+   "english name":"common bent"
+  ,"latin name":"Agrostis capillaris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"bristle bent"
+  ,"latin name":"Agrostis curtsii"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"creeping bent"
+  ,"latin name":"Agrostis stolonifera"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"brown bent "
+  ,"latin name":"Agrostis vinealis"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"early hair grass"
+  ,"latin name":"Aira praecox"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"bugle  "
+  ,"latin name":"Ajuga reptans"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"bugle  "
+  ,"latin name":"Ajuga reptans   "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"water plantain"
+  ,"latin name":"Alisma plantago-aquatica"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"Babington's leek "
+  ,"latin name":"Allium ampeloprasum spp. babingtonii"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"banks"
+  ,"physical":"near the sea"
+  ,"size":"herb"
+},
+{
+   "english name":"wild leek "
+  ,"latin name":"Allium ampeloprasum subsp. ampeloprasum "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"banks"
+  ,"physical":"near the sea"
+  ,"size":"herb"
+},
+{
+   "english name":"wild chives "
+  ,"latin name":"Allium schoenoprasum"
+  ,"substrate":""
+  ,"type":"open"
+  ,"environment":"rocks"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"ramson  "
+  ,"latin name":"Allium ursinum   "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"crow garlic "
+  ,"latin name":"Allium vineale  "
+  ,"substrate":"coastal"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"alder  "
+  ,"latin name":"Alnus glutinosa  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"tree"
+},
+{
+   "english name":"alder  "
+  ,"latin name":"Alnus glutinosa  "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"tree"
+},
+{
+   "english name":"bulbous foxtail"
+  ,"latin name":"Alopecurus bulbosus"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"marsh foxtail"
+  ,"latin name":"Alopecurus geniculatus"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"grass"
+},
+{
+   "english name":"meadow foxtail"
+  ,"latin name":"Alopecurus pratensis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"marsh mallow "
+  ,"latin name":"Althaea officinalis"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"marram grass"
+  ,"latin name":"Ammophila arenaria"
+  ,"substrate":"coastal"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"pyramidal orchid "
+  ,"latin name":"Anacampis pyramidalis  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"chaffweed "
+  ,"latin name":"Anagallis minima "
+  ,"substrate":"acid"
+  ,"type":"bare"
+  ,"environment":"humid "
+  ,"physical":"sand"
+  ,"size":"herb"
+},
+{
+   "english name":"bog pimpernel "
+  ,"latin name":"Anagallis tenella  "
+  ,"substrate":"coastal"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"herb"
+},
+{
+   "english name":"garden anchuso "
+  ,"latin name":"Anchusa azurea"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow alkanet "
+  ,"latin name":"Anchusa ochroleuca "
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"dune"
+  ,"size":"herb"
+},
+{
+   "english name":"alkanet "
+  ,"latin name":"Anchusa officinalis"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":"wasteland"
+  ,"size":"herb"
+},
+{
+   "english name":"bog rosemary "
+  ,"latin name":"Andromeda polifolia "
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"shrub"
+},
+{
+   "english name":"wood anenome "
+  ,"latin name":"Anenome nemorosa  "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wild angelica "
+  ,"latin name":"Angelica sylvestris "
+  ,"substrate":"acid to calcareous"
+  ,"type":"water margin"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"ripgut brome"
+  ,"latin name":"Anisantha rigida"
+  ,"substrate":"coastal"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"barren brome"
+  ,"latin name":"Anisantha sterilis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"mountain everlasting "
+  ,"latin name":"Antennaria dioica"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"heath moor"
+  ,"size":"herb"
+},
+{
+   "english name":"sweet vernal grass"
+  ,"latin name":"Anthoxanthum odoratum"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"lady's fingers (kidney vetch) "
+  ,"latin name":"Anthyllis vulneraria "
+  ,"substrate":"coastal"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"dense silky-bent "
+  ,"latin name":"Apera interrupta "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"wild celery "
+  ,"latin name":"Apium graveolens"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"lesser marshwort "
+  ,"latin name":"Apium inundatum "
+  ,"substrate":"acid"
+  ,"type":"standing"
+  ,"environment":"standing water"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"fool's water-cress "
+  ,"latin name":"Apium nodiflorum"
+  ,"substrate":"calcareous"
+  ,"type":"water margin"
+  ,"environment":"standing water"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"fools watercress"
+  ,"latin name":"Apium nodiflorum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"columbine "
+  ,"latin name":"Aquilegia vulgaris"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"humid"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"hairy rockcress "
+  ,"latin name":"Arabis hirsuta"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"greater burdock "
+  ,"latin name":"Arctium lappa "
+  ,"substrate":"calcareous"
+  ,"type":"wood margin"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"bearberry  "
+  ,"latin name":"Arctostaphylos uva-ursi   "
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"thrift  "
+  ,"latin name":"Armeria maritima  "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"false oat grass"
+  ,"latin name":"Arrhenhatherum elatius"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"sea wormwood "
+  ,"latin name":"Artemesia maritima"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"Italian lords-and-ladies "
+  ,"latin name":"Arum italicum"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":"shaded hedge"
+  ,"physical":"hedge"
+  ,"size":"herb"
+},
+{
+   "english name":"lords and ladies"
+  ,"latin name":"Arum maculatum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"moist"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wild asparagus "
+  ,"latin name":"Asparagus officinalis subsp. prostratus "
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"sandy heath dune"
+  ,"size":"herb"
+},
+{
+   "english name":"squinancywort "
+  ,"latin name":"Asperula cynanchica"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sweet woodruff "
+  ,"latin name":"Asperula odorata"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"lanceolate spleenwort "
+  ,"latin name":"Asplenium billotti"
+  ,"substrate":"acid"
+  ,"type":"rock"
+  ,"environment":"shore, coastal"
+  ,"physical":"crevices"
+  ,"size":"fern"
+},
+{
+   "english name":"sea spleenwort"
+  ,"latin name":"Asplenium marinum"
+  ,"substrate":"coastal"
+  ,"type":"cliff"
+  ,"environment":"shore"
+  ,"physical":"crevices"
+  ,"size":"fern"
+},
+{
+   "english name":"sea aster "
+  ,"latin name":"Aster tripolium"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"purple milk vetch"
+  ,"latin name":"Astralagus danicus "
+  ,"substrate":"coastal"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"Lady-fern "
+  ,"latin name":"Athyrium filix-femina "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"well drained"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"frosted orache "
+  ,"latin name":"Atriplex laciniata  "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"wet"
+  ,"physical":"foreshore  "
+  ,"size":"herb"
+},
+{
+   "english name":"grass leaved orache "
+  ,"latin name":"Atriplex littoralis"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"sea purslane "
+  ,"latin name":"Atriplex portulacoides"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"lower saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"spear-leaved orache "
+  ,"latin name":"Atriplex prostrata"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"moist"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"meadow oat "
+  ,"latin name":"Avenula pratensis "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"downy oat- grass "
+  ,"latin name":"Avenula pubescens"
+  ,"substrate":"calcareous"
+  ,"type":"light soil"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"downy oat grass"
+  ,"latin name":"Avenula pubescens"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"limestone rock crevice / grassland"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"lesser water-plantain "
+  ,"latin name":"Baldellia ranunculoides "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"shallow water"
+  ,"physical":"margin"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser water parsnip"
+  ,"latin name":"Berula erecta"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"sea beet "
+  ,"latin name":"Beta vulgaris  "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"wet"
+  ,"physical":"foreshore  "
+  ,"size":"herb"
+},
+{
+   "english name":"betony "
+  ,"latin name":"Betonica officinalis  "
+  ,"substrate":"acid"
+  ,"type":"heath"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"birch "
+  ,"latin name":"Betula pendula"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"dry "
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"birches  "
+  ,"latin name":"Betula pendula  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"tree"
+},
+{
+   "english name":"downy birch "
+  ,"latin name":"Betula pubescens"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"bur marigold"
+  ,"latin name":"Bidens tripartita"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"Buckler mustard "
+  ,"latin name":"Biscutella laevigata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"yellowwort  "
+  ,"latin name":"Blackstonia perfoliata   "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"hard fern "
+  ,"latin name":"Blechnum spicant"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"flat-sedge "
+  ,"latin name":"Blysmus compressus"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"sedge"
+},
+{
+   "english name":"sea club rush"
+  ,"latin name":"Bolboschoenus maritimus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"moonwort "
+  ,"latin name":"Botrychium lunaria "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland, dunes, rock ledges"
+  ,"size":"herb"
+},
+{
+   "english name":"tor grass"
+  ,"latin name":"Brachypodium pinnatum"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"wood false brome"
+  ,"latin name":"Brachypodium sylvaticum"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"wild cabbage "
+  ,"latin name":"Brassica oleracea "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"quaking grass"
+  ,"latin name":"Briza media"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"meadow brome"
+  ,"latin name":"Bromus commutatus"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"upright brome"
+  ,"latin name":"Bromus erectus"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"common soft brome"
+  ,"latin name":"Bromus hordeaceous"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"grass"
+},
+{
+   "english name":"smooth brome"
+  ,"latin name":"Bromus racemosus"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"hairy brome"
+  ,"latin name":"Bromus ramosa"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"grass"
+},
+{
+   "english name":"rye brome"
+  ,"latin name":"Bromus secalinus"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"small hare's-ear "
+  ,"latin name":"Bupleurum baldense "
+  ,"substrate":"calcareous"
+  ,"type":"cliff top"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"flowering rush"
+  ,"latin name":"Butomus umbellatus "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"sea rocket "
+  ,"latin name":"Cakile maritima  "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"wet"
+  ,"physical":"foreshore  "
+  ,"size":"herb"
+},
+{
+   "english name":"wood small-reed "
+  ,"latin name":"Calamagrostis epigejos "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"wood"
+  ,"physical":"water margin"
+  ,"size":"reed"
+},
+{
+   "english name":"intermediate water-starwort "
+  ,"latin name":"Callitriche hamulata"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"blunt-fruited water-starwort "
+  ,"latin name":"Callitriche obtusangula "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"various-leaved water-starwort "
+  ,"latin name":"Callitriche platycarpa"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"common water starwort"
+  ,"latin name":"Callitriche stagnalis"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"bell heather / ling"
+  ,"latin name":"Calluna vulgaris"
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"dry"
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"heather  "
+  ,"latin name":"Calluna vulgaris   "
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"marsh marigold "
+  ,"latin name":"Caltha palustris "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"hedge bindweed "
+  ,"latin name":"Calystegia sepium "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"sea bindweed "
+  ,"latin name":"Calystegia soldanellla  "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"clustered bellflower "
+  ,"latin name":"Campanula glommerata   "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"harebell "
+  ,"latin name":"Campanula rotundifolia"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"shepherd's purse "
+  ,"latin name":"Capsella bursa-pastoris"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"cuckoo flower "
+  ,"latin name":"Cardamine pratensis"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"musk thistle "
+  ,"latin name":"Carduus nutans "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"wasteland"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser pond sedge"
+  ,"latin name":"Carex acutiformis"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"sedge"
+},
+{
+   "english name":"sand sedge"
+  ,"latin name":"Carex arenaria "
+  ,"substrate":"marine"
+  ,"type":"sandy"
+  ,"environment":""
+  ,"physical":"dune"
+  ,"size":"sedge"
+},
+{
+   "english name":"green ribbed sedge"
+  ,"latin name":"Carex binerva"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"spring-sedge"
+  ,"latin name":"Carex caryophyllea C. pulicaris"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"white sedge "
+  ,"latin name":"Carex curta"
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"mire"
+  ,"size":"sedge"
+},
+{
+   "english name":"common yellow sedge"
+  ,"latin name":"Carex demissa"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"sedge"
+},
+{
+   "english name":"distant sedge "
+  ,"latin name":"Carex distans "
+  ,"substrate":"marine"
+  ,"type":"brackish"
+  ,"environment":"wet"
+  ,"physical":"sand"
+  ,"size":"sedge"
+},
+{
+   "english name":"brown sedge"
+  ,"latin name":"Carex disticha"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"sedge"
+},
+{
+   "english name":"divided sedge "
+  ,"latin name":"Carex divisa"
+  ,"substrate":"marine"
+  ,"type":"brackish"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"sedge"
+},
+{
+   "english name":"star sedge"
+  ,"latin name":"Carex echinata"
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"sedge"
+},
+{
+   "english name":"pale gallingale "
+  ,"latin name":"Carex eragrostis"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"sedge"
+},
+{
+   "english name":"glaucus sedge"
+  ,"latin name":"Carex flacca"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"sedge"
+},
+{
+   "english name":"hairy sedge"
+  ,"latin name":"Carex hirta"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"tawny sedge "
+  ,"latin name":"Carex hostiana"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"sedge"
+},
+{
+   "english name":"slender sedge"
+  ,"latin name":"Carex lasiocarpa"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"sedge"
+},
+{
+   "english name":"oval sedge"
+  ,"latin name":"Carex leporina"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"galingale "
+  ,"latin name":"Carex longus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"sedge"
+},
+{
+   "english name":"soft leaved sedge"
+  ,"latin name":"Carex montana"
+  ,"substrate":"acid"
+  ,"type":"short grass"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"common sedge"
+  ,"latin name":"Carex nigra"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"sedge"
+},
+{
+   "english name":"false fox sedge"
+  ,"latin name":"Carex otrubae"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"sedge"
+},
+{
+   "english name":"pale sedge"
+  ,"latin name":"Carex pallenscens"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"carnation sedge"
+  ,"latin name":"Carex panicea"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"greater tussock sedge"
+  ,"latin name":"Carex paniculata"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"sedge"
+},
+{
+   "english name":"longstalked sedge "
+  ,"latin name":"Carex pendiculata "
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"sedge"
+},
+{
+   "english name":"pendulous sedge"
+  ,"latin name":"Carex pendula"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"sedge"
+},
+{
+   "english name":"pill sedge"
+  ,"latin name":"Carex pilulifera"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"sedge"
+},
+{
+   "english name":"cyperus sedge"
+  ,"latin name":"Carex pseudocyperus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"sedge"
+},
+{
+   "english name":"flea sedge "
+  ,"latin name":"Carex pulicaris "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"mire"
+  ,"size":"sedge"
+},
+{
+   "english name":"dotted sedge "
+  ,"latin name":"Carex punctata "
+  ,"substrate":"marine"
+  ,"type":"saltmarsh"
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"sedge"
+},
+{
+   "english name":"remote sedge"
+  ,"latin name":"Carex remota"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"sedge"
+},
+{
+   "english name":"greater pond sedge"
+  ,"latin name":"Carex riparia"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"sedge"
+},
+{
+   "english name":"mire bottle sedge"
+  ,"latin name":"Carex rostrata"
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"fresh water"
+  ,"physical":"lakes"
+  ,"size":"sedge"
+},
+{
+   "english name":"small-fruited yellow-sedge "
+  ,"latin name":"Carex serotina "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"lakes"
+  ,"size":"sedge"
+},
+{
+   "english name":"spiked sedge"
+  ,"latin name":"Carex spicata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"sedge"
+},
+{
+   "english name":"wood sedge"
+  ,"latin name":"Carex sylvatica"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"sedge"
+},
+{
+   "english name":"bladder sedge"
+  ,"latin name":"Carex vesicaria"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"fresh water"
+  ,"physical":"fen"
+  ,"size":"sedge"
+},
+{
+   "english name":"carline thistle "
+  ,"latin name":"Carline vulgaris"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"whorled caraway "
+  ,"latin name":"Carum verticillatum "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"humid"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"water whorl-grass "
+  ,"latin name":"Catabrosa aquatica"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"muddy"
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"fern grass"
+  ,"latin name":"Catapodium rigidum"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"sandy  "
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"sea fern grass"
+  ,"latin name":"Catapodium marinum"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"black knapweed"
+  ,"latin name":"Centaurea nigra"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"greater knapweed  "
+  ,"latin name":"Centaurea scabiosa   "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"centuaries  "
+  ,"latin name":"Centaurium  littoralis"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"centuaries  "
+  ,"latin name":"Centaurium erythraea"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"centuaries  "
+  ,"latin name":"Centaurium pulchellum"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"perennial centaury "
+  ,"latin name":"Centaurium scilloides "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"sea cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"white helleborine "
+  ,"latin name":"Cephalanthera damasonium  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"common mouse-ear "
+  ,"latin name":"Cerastium arvensis  "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea mouse-ear "
+  ,"latin name":"Cerastium diffusum "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"near sea"
+  ,"size":"herb"
+},
+{
+   "english name":"hornwort"
+  ,"latin name":"Ceratophylum demersum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"small toadflax "
+  ,"latin name":"Chaenorhinum minus "
+  ,"substrate":"calcareous"
+  ,"type":"cinder"
+  ,"environment":"dry"
+  ,"physical":"wasteland"
+  ,"size":"herb"
+},
+{
+   "english name":"chamomile "
+  ,"latin name":"Chamaemelum nobile"
+  ,"substrate":""
+  ,"type":"heath"
+  ,"environment":""
+  ,"physical":"grassy"
+  ,"size":"herb"
+},
+{
+   "english name":"wallflower"
+  ,"latin name":"Cheiranthus cheiri"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"stinking goosefoot "
+  ,"latin name":"Chenopodium vulvaria "
+  ,"substrate":"marine"
+  ,"type":"saltmarsh"
+  ,"environment":""
+  ,"physical":"wasteland"
+  ,"size":"herb"
+},
+{
+   "english name":"opposite-leaved golden- saxifrage "
+  ,"latin name":"Chrysosplenium oppositifolium"
+  ,"substrate":"acid"
+  ,"type":"water margin"
+  ,"environment":"flushes"
+  ,"physical":"wood"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow centaury "
+  ,"latin name":"Cicendia filiformis "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"seasonally wet"
+  ,"physical":"dune slack  "
+  ,"size":"herb"
+},
+{
+   "english name":"enchanter's nightshade "
+  ,"latin name":"Circaea lutetiana"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"cabbage thistle "
+  ,"latin name":"Circium oleraceum "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"dwarf thistle "
+  ,"latin name":"Cirsium acaule  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"creeping thistle "
+  ,"latin name":"Cirsium arvense "
+  ,"substrate":""
+  ,"type":""
+  ,"environment":"fertile"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"meadow thistle "
+  ,"latin name":"Cirsium dissectum"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":"humid"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh thistle "
+  ,"latin name":"Cirsium palustre"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"great fen-sedge "
+  ,"latin name":"Cladium mariscus"
+  ,"substrate":"acid"
+  ,"type":"peat"
+  ,"environment":"fresh water"
+  ,"physical":""
+  ,"size":"sedge"
+},
+{
+   "english name":"water purslane"
+  ,"latin name":"Claytonia sibirica"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"traveller's joy "
+  ,"latin name":"Clematis vitalba"
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"English scurvygrass "
+  ,"latin name":"Cochlearia anglica "
+  ,"substrate":"marine"
+  ,"type":"  "
+  ,"environment":"wet"
+  ,"physical":"margin"
+  ,"size":"herb"
+},
+{
+   "english name":"scurvy grass "
+  ,"latin name":"Cochlearia officinalis"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":"acid"
+  ,"size":"herb"
+},
+{
+   "english name":"frog orchid "
+  ,"latin name":"Coeloglossum viride "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dunes, mires, flushes"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"pignut "
+  ,"latin name":"Conopodium majus"
+  ,"substrate":"mildly acid"
+  ,"type":"open wood"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"field bindweed "
+  ,"latin name":"Convolvulus arvensis  "
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"coral root orchid"
+  ,"latin name":"Coralorhiza trifida "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"dogwood  "
+  ,"latin name":"Cornus sanguinea   "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"dwarf cornel "
+  ,"latin name":"Cornus suecica  "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"strapwort "
+  ,"latin name":"Corrigiola litoralis"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"pampas grass"
+  ,"latin name":"Cortaderia selloana"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"climbing corydalis"
+  ,"latin name":"Corydalis claviculata"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"hazel "
+  ,"latin name":"Corylus avellana"
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"hazel  "
+  ,"latin name":"Corylus avellana"
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"sea kale "
+  ,"latin name":"Crambe maritima "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"shingle"
+  ,"physical":"shingle banks "
+  ,"size":"herb"
+},
+{
+   "english name":"mossy stonecrop "
+  ,"latin name":"Crassula tillaea"
+  ,"substrate":""
+  ,"type":"bare"
+  ,"environment":"dry"
+  ,"physical":"sandy"
+  ,"size":"herb"
+},
+{
+   "english name":"hawthorn  "
+  ,"latin name":"Crataegus monogyna   "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"midland hawthorn "
+  ,"latin name":"Crategus laevigata  "
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"hawthorn  "
+  ,"latin name":"Cretaegus monogyna  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"tree"
+},
+{
+   "english name":"goldilocks aster "
+  ,"latin name":"Crinitaria linosyris "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"rock samphire "
+  ,"latin name":"Crithmun maritimum "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"cross-wort "
+  ,"latin name":"Cruciata laevipes "
+  ,"substrate":"neutral - calcareous"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":"scrub"
+  ,"size":"herb"
+},
+{
+   "english name":"common dodder"
+  ,"latin name":"Cuscuta epithymum "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"heath"
+  ,"size":"herb"
+},
+{
+   "english name":"Bermuda-grass "
+  ,"latin name":"Cynodon dactylon  "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"hounds tongue "
+  ,"latin name":"Cynoglossum officinale  "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"crested dog's tail"
+  ,"latin name":"Cynosurus cristatus"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"broom "
+  ,"latin name":"Cytisus scoparious"
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"cock's foot"
+  ,"latin name":"Dactylis glomerata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"spotted orchids "
+  ,"latin name":"Dactylorhiza fuchsii "
+  ,"substrate":"neutral - calcareous"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"Hebridean orchid "
+  ,"latin name":"Dactylorhiza fuchsii ssp. hebridensis "
+  ,"substrate":"neutral - calcareous"
+  ,"type":"open"
+  ,"environment":"dune"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"common spotted orchid"
+  ,"latin name":"Dactylorhiza fuschii "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"early marsh orchid"
+  ,"latin name":"Dactylorhiza incarnata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"spotted orchids "
+  ,"latin name":"Dactylorhiza maculata"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"heath, moor"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"heath spotted orchid"
+  ,"latin name":"Dactylorhiza maculata "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"southern marsh-orchid "
+  ,"latin name":"Dactylorhiza praetermissa"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"humid marsh, fen"
+  ,"physical":"meadow"
+  ,"size":"herb"
+},
+{
+   "english name":"heath grass"
+  ,"latin name":"Danthonia decumbens"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"spurge laurel "
+  ,"latin name":"Daphne laureola  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"shrub"
+},
+{
+   "english name":"wild carrot "
+  ,"latin name":"Daucus carota "
+  ,"substrate":"calcareous"
+  ,"type":"coastal"
+  ,"environment":"dry"
+  ,"physical":"rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea carrot "
+  ,"latin name":"Daucus carota subsp. Gummifer"
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"maritime cliff, dune, grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"tufted hair grass"
+  ,"latin name":"Deschampsia cespitosa"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"grass"
+},
+{
+   "english name":"wavy hair grass"
+  ,"latin name":"Deschampsia flexuosa"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"maiden pink "
+  ,"latin name":"Dianthus deltoides"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"foxglove  "
+  ,"latin name":"Digitalis purpurea   "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"scarce great sundew "
+  ,"latin name":"Drosera anglica "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"oblong-leaved sundew "
+  ,"latin name":"Drosera intermedia "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"round leaved sundew  "
+  ,"latin name":"Drosera rotundifolia"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"hay-scented fern "
+  ,"latin name":"Dryopteris aemula "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"ravine"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"scaly male-fern "
+  ,"latin name":"Dryopteris affinis"
+  ,"substrate":""
+  ,"type":"wood"
+  ,"environment":"shaded"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"narrow buckler fern "
+  ,"latin name":"Dryopteris carthusiana "
+  ,"substrate":"acid to neutral"
+  ,"type":"wood"
+  ,"environment":"humid well drained"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"broad buckler fern "
+  ,"latin name":"Dryopteris dilatata"
+  ,"substrate":"acid to neutral"
+  ,"type":"wood"
+  ,"environment":"humid well drained"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"male fern"
+  ,"latin name":"Dryopteris filix-mas"
+  ,"substrate":""
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"cockspur"
+  ,"latin name":"Echinoclhoa crus-galli"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"viper's bugloss "
+  ,"latin name":"Echium vulgare  "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"six-stamened waterwort"
+  ,"latin name":"Elatine hexandra"
+  ,"substrate":"fresh water"
+  ,"type":"bare mud"
+  ,"environment":"wet"
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"many-stemmed spike-rush "
+  ,"latin name":"Eleocharis multicaulis "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"bog"
+  ,"physical":"bog dune slack"
+  ,"size":"sedge"
+},
+{
+   "english name":"common spike rush"
+  ,"latin name":"Eleocharis palustris"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"rush"
+},
+{
+   "english name":"slender spike rush"
+  ,"latin name":"Eleocharis uniglumis"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"floating club-rush "
+  ,"latin name":"Eleogiton fluitans "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"fresh standing water"
+  ,"physical":"water margin"
+  ,"size":"sedge"
+},
+{
+   "english name":"bearded couch"
+  ,"latin name":"Elymus caninum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"grass"
+},
+{
+   "english name":"sea couch"
+  ,"latin name":"Elytriga atherica"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"sand couch"
+  ,"latin name":"Elytriga juncea"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"crowberry  "
+  ,"latin name":"Empetrum nigrum   "
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"rosebay willowherb "
+  ,"latin name":"Epilobium angustifolium"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"great willowherb"
+  ,"latin name":"Epilobium hirsutum "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"great willowherb "
+  ,"latin name":"Epilobium hirsutum "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"broadleaved willowherb "
+  ,"latin name":"Epilobium montanum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh willowherb "
+  ,"latin name":"Epilobium palustre "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"dark red helleborine"
+  ,"latin name":"Epipactis atrorubens"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"broad-leaved helleborine "
+  ,"latin name":"Epipactis helleborine  "
+  ,"substrate":"mildly acid to calcareous"
+  ,"type":"woods"
+  ,"environment":"wet"
+  ,"physical":"wood, hedges"
+  ,"size":"herb"
+},
+{
+   "english name":"narrow-lipped helleborine "
+  ,"latin name":"Epipactis leptochyla "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":"beech wood, dune slack"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh helleborine "
+  ,"latin name":"Epipactis palustris "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh helliborine "
+  ,"latin name":"Epipactis palustris  "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"herb"
+},
+{
+   "english name":"water horsetail "
+  ,"latin name":"Equisetum fluviatile"
+  ,"substrate":"fresh water"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"ponds, lakes, ditches"
+  ,"size":"herb"
+},
+{
+   "english name":"great horsetail "
+  ,"latin name":"Equisetum telmateia "
+  ,"substrate":""
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"seepage lines"
+  ,"size":"herb"
+},
+{
+   "english name":"variegated horsetail "
+  ,"latin name":"Equisetum variegatum"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"flushes"
+  ,"size":"herb"
+},
+{
+   "english name":"Dorset heath "
+  ,"latin name":"Erica ciliaris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"bog, heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"cross leaved heath"
+  ,"latin name":"Erica tetralix"
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"shrub"
+},
+{
+   "english name":"blue fleabane "
+  ,"latin name":"Erigeron acer"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"common storksbill geranium "
+  ,"latin name":"Eriobium cicutarium "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"pipewort"
+  ,"latin name":"Eriocaulon aquaticum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"common cottongrass"
+  ,"latin name":"Eriophorum angustifolium"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"flush"
+  ,"size":"herb"
+},
+{
+   "english name":"hare's-tail cottongrass "
+  ,"latin name":"Eriophorum vaginatum"
+  ,"substrate":"acid"
+  ,"type":"peat"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"sedge"
+},
+{
+   "english name":"sea stork's-bill "
+  ,"latin name":"Erodium maritimum"
+  ,"substrate":"marine"
+  ,"type":"cliff, dunes"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"musk stork's-bill "
+  ,"latin name":"Erodium moschatum "
+  ,"substrate":"marine"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"dune"
+  ,"size":"herb"
+},
+{
+   "english name":"Whitlow grasses  "
+  ,"latin name":"Erophila verna "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"common whitlow grass"
+  ,"latin name":"Erophila verna "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"field eryngo"
+  ,"latin name":"Eryngium campestre"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"coastal grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea holly "
+  ,"latin name":"Eryngium maritimum "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"shingle"
+  ,"physical":"shingle banks "
+  ,"size":"herb"
+},
+{
+   "english name":"spindle tree "
+  ,"latin name":"Euonymus europaeus  "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"hemp agrimony"
+  ,"latin name":"Eupatorium cannabinum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"hemp agrimony "
+  ,"latin name":"Eupatorium cannabinum "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wood spurge "
+  ,"latin name":"Euphorbia amygdaloides"
+  ,"substrate":"mildly acid"
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":"wood, coppice"
+  ,"size":"herb"
+},
+{
+   "english name":"Irish spurge "
+  ,"latin name":"Euphorbia hyberna"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"sea spurge"
+  ,"latin name":"Euphorbia paralias "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"Portland spurge "
+  ,"latin name":"Euphorbia portlandica"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"sandy / limestone"
+  ,"size":"herb"
+},
+{
+   "english name":"eyebright "
+  ,"latin name":"Euphrasia vigursii "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"beech  "
+  ,"latin name":"Fagus sylvatica   "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"tall fescue"
+  ,"latin name":"Festuca arundinaceus"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"grass"
+},
+{
+   "english name":"giant fescue"
+  ,"latin name":"Festuca giganteus"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"grass"
+},
+{
+   "english name":"sheep's fescue"
+  ,"latin name":"Festuca ovina"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"meaow fescue"
+  ,"latin name":"Festuca pratensis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"red fescue"
+  ,"latin name":"Festuca rubra"
+  ,"substrate":"neutral"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"fig "
+  ,"latin name":"Ficus carica "
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"broad leaved cotton rose "
+  ,"latin name":"Filago pyramidata"
+  ,"substrate":"calcareous"
+  ,"type":"arable"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"cudweed"
+  ,"latin name":"Filago vulgaris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"meadow sweet"
+  ,"latin name":"Filipendula ulmaria "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"humid"
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"meadow sweet "
+  ,"latin name":"Filipendula ulmaria "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"dropwort "
+  ,"latin name":"Filipendula vulgaris "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"wild strawberry "
+  ,"latin name":"Fragaria vesca"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"alder buckthorn "
+  ,"latin name":"Frangula alnus "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"shrub"
+},
+{
+   "english name":"ash  "
+  ,"latin name":"Fraxinus excelsior   "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"tall ramping fumitory "
+  ,"latin name":"Fumaria bastardii"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"western ramping fumitory "
+  ,"latin name":"Fumaria occidentalis"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"light sandy soil"
+  ,"size":"herb"
+},
+{
+   "english name":"fumitory "
+  ,"latin name":"Fumaria officinalis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"goosegrass  "
+  ,"latin name":"Galium aperine  "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"woodruff  "
+  ,"latin name":"Galium odoratum   "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"heath bedstraw "
+  ,"latin name":"Galium saxatile  "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"fen bedstraw "
+  ,"latin name":"Galium uliginosum "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"lady's bedstraw "
+  ,"latin name":"Galium verum"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh bedstraw "
+  ,"latin name":"Gallium palustre "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"scarce nit-grass "
+  ,"latin name":"Gastridium ventricosum "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"petty whin "
+  ,"latin name":"Genista anglica"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"hairy greenweed "
+  ,"latin name":"Genista pilosa "
+  ,"substrate":"coastal"
+  ,"type":"heath"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"dyer's greenweed "
+  ,"latin name":"Genista tinctoria  "
+  ,"substrate":"calcareous neutral"
+  ,"type":"open"
+  ,"environment":"humid, clay"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh gentian "
+  ,"latin name":"Gentiana pneumonan "
+  ,"substrate":"acid"
+  ,"type":"heath"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"autumn gentian "
+  ,"latin name":"Gentianella amarella   "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"early gentian"
+  ,"latin name":"Gentianella anglica "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"Cornish gentian "
+  ,"latin name":"Gentianella anglica subspecies cornubiensis "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"little robin "
+  ,"latin name":"Geranium purpureum "
+  ,"substrate":"marine"
+  ,"type":"open"
+  ,"environment":"rocky"
+  ,"physical":"shingle"
+  ,"size":"herb"
+},
+{
+   "english name":"herb Robert "
+  ,"latin name":"Geranium robertianum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"herb Robert "
+  ,"latin name":"Geranium robertianum "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"bloody cranesbill "
+  ,"latin name":"Geranium sanguineum  "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"water avens "
+  ,"latin name":"Geum rivale"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"herb Bennet / wood avens "
+  ,"latin name":"Geum urbanum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow horned poppy "
+  ,"latin name":"Glaucium flavum"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"shingle"
+  ,"physical":"shingle banks "
+  ,"size":"herb"
+},
+{
+   "english name":"sea milkwort "
+  ,"latin name":"Glaux maritima"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"wet"
+  ,"physical":"lower saltmarsh"
+  ,"size":"herb"
+},
+{
+   "english name":"ground ivy "
+  ,"latin name":"Glechoma hederacea"
+  ,"substrate":"calcareous"
+  ,"type":"heavy"
+  ,"environment":"dry"
+  ,"physical":"wood margin"
+  ,"size":"herb"
+},
+{
+   "english name":"floating sweet grass"
+  ,"latin name":"Glyceria fluitans"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"fresh water standing"
+  ,"physical":"marsh"
+  ,"size":"grass"
+},
+{
+   "english name":"reed sweet grass"
+  ,"latin name":"Glyceria maxima"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"fresh water standing"
+  ,"physical":"marsh"
+  ,"size":"grass"
+},
+{
+   "english name":"plicate sweet grass"
+  ,"latin name":"Glyceria notata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"standing fresh water"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"Jersey cudweed "
+  ,"latin name":"Gnaphalium luteoalbum "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"creeping lady's tresses"
+  ,"latin name":"Goodyera repens "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"opposite-leaved pondweed "
+  ,"latin name":"Groenlandia densa"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"fragrant orchid "
+  ,"latin name":"Gymnadenia conopsea  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea flax weed "
+  ,"latin name":"Halopteris scoparia, "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"ivy "
+  ,"latin name":"Hedera helix  "
+  ,"substrate":"coastal"
+  ,"type":"wood, hedges, scrub"
+  ,"environment":""
+  ,"physical":"scrub"
+  ,"size":"herb"
+},
+{
+   "english name":"white rock-rose "
+  ,"latin name":"Helianthemum appenninum"
+  ,"substrate":"calcareous"
+  ,"type":"coastal "
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"rock roses "
+  ,"latin name":"Helianthemum nummularium   "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"meadow oat grass"
+  ,"latin name":"Helictottichon pratense"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"downy oat grass"
+  ,"latin name":"Helictottichon pubescens"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"hellebores  "
+  ,"latin name":"Helleborus foetidus"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"hellebores  "
+  ,"latin name":"Helleborus viridis "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"hepatica  "
+  ,"latin name":"Hepatica nobilis   "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"fringed rupturewort "
+  ,"latin name":"Herniaria ciliolata"
+  ,"substrate":""
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"bare compact sandy soil"
+  ,"size":"herb"
+},
+{
+   "english name":"mouse-ear hawkweed "
+  ,"latin name":"Hieracium pilosela"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"turf sandy soil"
+  ,"size":"herb"
+},
+{
+   "english name":"horseshoe vetch "
+  ,"latin name":"Hippocrepis comosa  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea buckthorn "
+  ,"latin name":"Hippophae rhamnoides  "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"yorkshire fog"
+  ,"latin name":"Holcus lanatus"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"creeping soft grass"
+  ,"latin name":"Holcus mollis"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"sea sandwort "
+  ,"latin name":"Honkenya peploides  "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"wet"
+  ,"physical":"foreshore  "
+  ,"size":"herb"
+},
+{
+   "english name":"meadow barley"
+  ,"latin name":"Hordeum secalinum"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"bluebell "
+  ,"latin name":"Hyacinthoides non-scriptus "
+  ,"substrate":"acid"
+  ,"type":"wood or grassland"
+  ,"environment":""
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"frogbit"
+  ,"latin name":"Hydrocharis morsus-ranae"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh pennywort "
+  ,"latin name":"Hydrocotyle vulgaris"
+  ,"substrate":"acid"
+  ,"type":"open  sandy"
+  ,"environment":"wet"
+  ,"physical":"bog dune slack"
+  ,"size":"herb"
+},
+{
+   "english name":"Tunrbidge filmy-fern "
+  ,"latin name":"Hymenophyllum tunbrigense"
+  ,"substrate":"fresh water"
+  ,"type":"stream banks"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"Wilson's filmy-fern "
+  ,"latin name":"Hymenophyllum wilsonii "
+  ,"substrate":"fresh water"
+  ,"type":"stream banks"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"tutsan "
+  ,"latin name":"Hypericum androsaemum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh St John's wort"
+  ,"latin name":"Hypericum elodes"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"trailing St John's wort "
+  ,"latin name":"Hypericum humifusum"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"toadflax-leaved St John's-wort "
+  ,"latin name":"Hypericum linarifolium "
+  ,"substrate":"acid"
+  ,"type":"stream sides"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"mountain St John's wort "
+  ,"latin name":"Hypericum montanum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wavy St John's Wort "
+  ,"latin name":"Hypericum undulatum"
+  ,"substrate":"acid"
+  ,"type":"stream sides"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"smooth cat's-ear "
+  ,"latin name":"Hypochaeris glabra "
+  ,"substrate":""
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"sandy soil"
+  ,"size":"herb"
+},
+{
+   "english name":"spotted cat's-ear "
+  ,"latin name":"Hypochoeris maculata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"cat's-ear "
+  ,"latin name":"Hypochoeris radicata "
+  ,"substrate":"mildly acid"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"meadow"
+  ,"size":"herb"
+},
+{
+   "english name":"wild candytuft "
+  ,"latin name":"Iberis amara   "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"holly  "
+  ,"latin name":"Ilex aquifolium   "
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"coral necklace "
+  ,"latin name":"Illecebrum verticillatum "
+  ,"substrate":""
+  ,"type":""
+  ,"environment":"humid"
+  ,"physical":"sandy path/pond margins"
+  ,"size":"herb"
+},
+{
+   "english name":"orange balsam"
+  ,"latin name":"Impatiens capensis"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"Himmalayan balsam"
+  ,"latin name":"Impatiens glandulifera"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"ploughman's spikenard "
+  ,"latin name":"Inula conyza "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"golden samphire "
+  ,"latin name":"Inula crithmoides"
+  ,"substrate":"coastal calcareous"
+  ,"type":"cliff"
+  ,"environment":"dry"
+  ,"physical":"rocky"
+  ,"size":"herb"
+},
+{
+   "english name":"stinking iris "
+  ,"latin name":"Iris foetidissima"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow iris / flag"
+  ,"latin name":"Iris pseudacorus "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow iris / flag"
+  ,"latin name":"Iris pseudacorus "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow iris / flag"
+  ,"latin name":"Iris pseudacorus "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow iris / flag"
+  ,"latin name":"Iris pseudacorus  "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"herb"
+},
+{
+   "english name":"land quillwort "
+  ,"latin name":"Isoetes histrix "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"seasonally bare"
+  ,"physical":""
+  ,"size":"fern"
+},
+{
+   "english name":"sheep's bit "
+  ,"latin name":"Jasione montana "
+  ,"substrate":"marine"
+  ,"type":"acid"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sharp flowered rush"
+  ,"latin name":"Juncus acutiflorus"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"rush"
+},
+{
+   "english name":"sharp  rush"
+  ,"latin name":"Juncus acutus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"jointed rush"
+  ,"latin name":"Juncus articulatus"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"rush"
+},
+{
+   "english name":"toad rush"
+  ,"latin name":"Juncus bufonius"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"bulbous rush"
+  ,"latin name":"Juncus bulbosus"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"standing fresh water"
+  ,"physical":"bog"
+  ,"size":"rush"
+},
+{
+   "english name":"dwarf rush"
+  ,"latin name":"Juncus capitatus"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"rush"
+},
+{
+   "english name":"round fruited rush"
+  ,"latin name":"Juncus compressus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"compact rush"
+  ,"latin name":"Juncus conglomeratus"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"rush"
+},
+{
+   "english name":"soft rush"
+  ,"latin name":"Juncus effusus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"rush"
+},
+{
+   "english name":"leafy rush"
+  ,"latin name":"Juncus foliosus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"salt mud rush"
+  ,"latin name":"Juncus gerardi"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"hard rush"
+  ,"latin name":"Juncus inflexus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"hard rush"
+  ,"latin name":"Juncus inflexus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"sea rush"
+  ,"latin name":"Juncus maritimus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"pigmy rush"
+  ,"latin name":"Juncus pygameus"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"rush"
+},
+{
+   "english name":"heath rush"
+  ,"latin name":"Juncus squarrosus"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"rush"
+},
+{
+   "english name":"blunt-flowered rush"
+  ,"latin name":"Juncus subnodulosus"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"rush"
+},
+{
+   "english name":"slender rush"
+  ,"latin name":"Juncus tenuis"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"rush"
+},
+{
+   "english name":"juniper  "
+  ,"latin name":"Juniperus communis   "
+  ,"substrate":"acid"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"field scabious "
+  ,"latin name":"Knautia arvensis"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"crested hair-grass "
+  ,"latin name":"Koeleria macrantha"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"dune"
+  ,"size":"grass"
+},
+{
+   "english name":"wall lettuce "
+  ,"latin name":"Lacutuca muralis"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow archangel "
+  ,"latin name":"Lamiastrum galeobdolon "
+  ,"substrate":"neutral - calcareous"
+  ,"type":"wood"
+  ,"environment":"heavy soil"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"red dead nettle"
+  ,"latin name":"Lamium purpueum"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"stonewort "
+  ,"latin name":"Lamprothamnion papillosum"
+  ,"substrate":"brackish"
+  ,"type":""
+  ,"environment":"with ruppia"
+  ,"physical":"water plant"
+  ,"size":"herb"
+},
+{
+   "english name":"toothwort "
+  ,"latin name":"Lathraea squamaria "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"moist"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"sea pea "
+  ,"latin name":"Lathyrus japonicus "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"shingle"
+  ,"physical":"shingle banks "
+  ,"size":"herb"
+},
+{
+   "english name":"bitter vetch "
+  ,"latin name":"Lathyrus linefolius  "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"bitter vetchling "
+  ,"latin name":"Lathyrus montanus  "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"grass vetchling "
+  ,"latin name":"Lathyrus nissolia"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"coastal"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh pea "
+  ,"latin name":"Lathyrus palustris "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"meadow vetchling"
+  ,"latin name":"Lathyrus pratensis "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"coastal"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"tree mallow "
+  ,"latin name":"Lavatera arborea "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"Labrador tea "
+  ,"latin name":"Ledum palustre "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"shrub"
+},
+{
+   "english name":"cut grass"
+  ,"latin name":"Leersia oryzoides"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"fresh water standing"
+  ,"physical":"marsh"
+  ,"size":"grass"
+},
+{
+   "english name":"duckweed"
+  ,"latin name":"Lemna minor"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"ivyleaved duckweed"
+  ,"latin name":"Lemna trisulca"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"greater hawkbit "
+  ,"latin name":"Leontodon autumnalis  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"rough hawkbit "
+  ,"latin name":"Leontodon hispidus"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"well drained"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"dittander"
+  ,"latin name":"Lepidium latifolium"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"oxeye daisy "
+  ,"latin name":"Leucanmum vulgare "
+  ,"substrate":"coastal"
+  ,"type":"cliff, slope"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"lyme grass"
+  ,"latin name":"Leymus arenarius"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"wild privet "
+  ,"latin name":"Ligustrum vulgare  "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"rock sea lavender  "
+  ,"latin name":"Limonium binervosum"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"Portland sea lavender "
+  ,"latin name":"Limonium recurvum"
+  ,"substrate":"marine"
+  ,"type":"cliff"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"common sea lavender "
+  ,"latin name":"Limonium vulgare"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"wet"
+  ,"physical":"lower saltmarsh"
+  ,"size":"herb"
+},
+{
+   "english name":"twinflower  "
+  ,"latin name":"Linnaea borealis   "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"pale flax "
+  ,"latin name":"Linum bienne"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"fairy flax "
+  ,"latin name":"Linum catharticum  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"fen orchid "
+  ,"latin name":"Liparis loeselii "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser twayblade "
+  ,"latin name":"Listera cordata"
+  ,"substrate":"acid"
+  ,"type":"shaded"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"common twayblade "
+  ,"latin name":"Listera ovata "
+  ,"substrate":" mildly acid to calcareous"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"grassland dune slack"
+  ,"size":"herb"
+},
+{
+   "english name":"common gromwell "
+  ,"latin name":"Lithospermum officinale "
+  ,"substrate":"calcareous"
+  ,"type":"wood margin"
+  ,"environment":""
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"purple gromwell "
+  ,"latin name":"Lithospermum purpurocaeruleum"
+  ,"substrate":"calcareous"
+  ,"type":"wood margin"
+  ,"environment":"coastal scrub"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"shoreweed"
+  ,"latin name":"Littorella uniflora"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"shoreweed "
+  ,"latin name":"Littorella uniflora "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"fresh water lakes"
+  ,"size":"herb"
+},
+{
+   "english name":"water lobelia"
+  ,"latin name":"Lobelia dortmanna"
+  ,"substrate":"fresh water"
+  ,"type":"acid water"
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"heath lobelia "
+  ,"latin name":"Lobelia urens  "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"humid, seasonally waterlogged"
+  ,"physical":"rough pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"perennial rye-grass "
+  ,"latin name":"Lolium perenne "
+  ,"substrate":"neutral"
+  ,"type":""
+  ,"environment":"rich heavy soil"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"honeysuckle "
+  ,"latin name":"Lonicera periclymenum "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"scrub"
+  ,"size":"herb"
+},
+{
+   "english name":"birdsfoot trefoil"
+  ,"latin name":"Lotus corniculatus "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"greater bird's-foot trefoil"
+  ,"latin name":"Lotus pedunculatus"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"hairy bird's-foot-trefoil "
+  ,"latin name":"Lotus subbiflorus"
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"field wood rush"
+  ,"latin name":"Luzula campestris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"rush"
+},
+{
+   "english name":"heath wood rush"
+  ,"latin name":"Luzula multiflora"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"rush"
+},
+{
+   "english name":"great wood rush"
+  ,"latin name":"Luzula sylvatica"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"rush"
+},
+{
+   "english name":"ragged robin "
+  ,"latin name":"Lychnis flos-cuculi"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"gipsywort"
+  ,"latin name":"Lycopus europaeus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh fern"
+  ,"latin name":"Lypteris palustris "
+  ,"substrate":"base rich"
+  ,"type":"fen wood"
+  ,"environment":"fen"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"yellow pimpernel "
+  ,"latin name":"Lysimachia menorum  "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"creeping-Jenny "
+  ,"latin name":"Lysimachia nummularia "
+  ,"substrate":"fresh water"
+  ,"type":"water margin"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"creeping jenny "
+  ,"latin name":"Lysimachia thyrsiflora"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow loosestife"
+  ,"latin name":"Lysimachia vulgaris"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow loosestrife "
+  ,"latin name":"Lysimachia vulgaris "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"water-purslane "
+  ,"latin name":"Lythrum portula"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"fresh water standing"
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"purple loosestrife"
+  ,"latin name":"Lythrum salicaria "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"purple loosestrife "
+  ,"latin name":"Lythrum salicaria "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"bog orchid "
+  ,"latin name":"Malaxis paludosa"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"crab apple "
+  ,"latin name":"Malus sylvestris  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"white horehound "
+  ,"latin name":"Marrubium vulgare"
+  ,"substrate":"calcareous"
+  ,"type":"coastal"
+  ,"environment":"shingle"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea stocks  "
+  ,"latin name":"Mathiola sinuata  "
+  ,"substrate":"coastal"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"black medick "
+  ,"latin name":"Medicago lupinula"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"well drained"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"common cow wheat "
+  ,"latin name":"Melanpyrum pratense"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wood melick"
+  ,"latin name":"Melica uniflora"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"grass"
+},
+{
+   "english name":"bastard balm "
+  ,"latin name":"Melittis melissophyllum "
+  ,"substrate":""
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"water mint"
+  ,"latin name":"Mentha aquatica"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"pennyroyal "
+  ,"latin name":"Mentha pulegium "
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"coastal grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"round-leaved mint "
+  ,"latin name":"Mentha suaveolens"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":"wasteground"
+  ,"size":"herb"
+},
+{
+   "english name":"bogbean  "
+  ,"latin name":"Menyanthes trifoliata"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"standing fresh water"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"dogs mercury "
+  ,"latin name":"Mercurialis perennis  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"oyster plant "
+  ,"latin name":"Mertensia maritima"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"shingle"
+  ,"physical":"shingle banks "
+  ,"size":"herb"
+},
+{
+   "english name":"wood millet"
+  ,"latin name":"Milium effusum"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"grass"
+},
+{
+   "english name":"early millet"
+  ,"latin name":"Milium vernale"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"monkey flower"
+  ,"latin name":"Mimulus guttatus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"spring sandwort "
+  ,"latin name":"Minuartia verna"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"upright chickweed "
+  ,"latin name":"Moenchia erecta"
+  ,"substrate":"acid"
+  ,"type":"coastal / cliff"
+  ,"environment":"dry"
+  ,"physical":"short grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"purple moor grass"
+  ,"latin name":"Molinia caerulea"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"grass"
+},
+{
+   "english name":"blinks"
+  ,"latin name":"Montia fontana"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"spring beauty "
+  ,"latin name":"Montia perfoliata"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"changing forget-me-not "
+  ,"latin name":"Myosotis discolor"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"water chickweed "
+  ,"latin name":"Myosoton aquaticum "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"bog myrtle "
+  ,"latin name":"Myrica gale "
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"shrub"
+},
+{
+   "english name":"spiked water-milfoil "
+  ,"latin name":"Myriophyllum spicatum"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"standing fresh water"
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"water forget-me-nots "
+  ,"latin name":"Mysotis scorpiodies "
+  ,"substrate":"neutral"
+  ,"type":"neutral"
+  ,"environment":"fresh water standing"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"wild daffodil "
+  ,"latin name":"Narcissus pseudonarcissus"
+  ,"substrate":"mildly acid"
+  ,"type":""
+  ,"environment":"humid"
+  ,"physical":"pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"bog asphodel"
+  ,"latin name":"Narcium ossifragum"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"flush"
+  ,"size":"herb"
+},
+{
+   "english name":"mat grass"
+  ,"latin name":"Nardus stricta"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"grass"
+},
+{
+   "english name":"marsh asphodel "
+  ,"latin name":"Narthecium ossifragum"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"watercress"
+  ,"latin name":"Nasturtium officinale"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"birdsnest orchid "
+  ,"latin name":"Neottia nidus-avis  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"bird's nest orchid "
+  ,"latin name":"Neottia nidusavis"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"deep humus"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"water lillies"
+  ,"latin name":"Nuphar alba"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"water lillies"
+  ,"latin name":"Nuphar lutea"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"neutral"
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"white water-lily "
+  ,"latin name":"Nymphaea alba "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"tubular water-dropwort "
+  ,"latin name":"Oenanthe  fistulosa"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"corky-fruited water-dropwort "
+  ,"latin name":"Oenanthe  pimpinelloides "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"hemlock water-dropwort "
+  ,"latin name":"Oenanthe crocata"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"river water-dropwort "
+  ,"latin name":"Oenanthe fluviatilis"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"parsley water-dropwort "
+  ,"latin name":"Oenanthe lachenalii"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"fragrant evening-primrose "
+  ,"latin name":"Oenothera stricta"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"sandy ground"
+  ,"physical":"dunes"
+  ,"size":"herb"
+},
+{
+   "english name":"sainfoin "
+  ,"latin name":"Onobrychis viciifolia "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"unimproved"
+  ,"physical":"pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"small restharrow "
+  ,"latin name":"Ononis reclinata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"cliff dune"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"common rest-harrow "
+  ,"latin name":"Ononis repens  "
+  ,"substrate":"coastal"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":"calcareous rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"adder's-tongue fern "
+  ,"latin name":"Ophioglossum vulgatum "
+  ,"substrate":"acid to calcareous"
+  ,"type":""
+  ,"environment":"fen"
+  ,"physical":"fen"
+  ,"size":"fern"
+},
+{
+   "english name":"fly orchid "
+  ,"latin name":"Ophrys insectilifera  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"bee orchid "
+  ,"latin name":"Ophyrs apifera  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"early purple orchid"
+  ,"latin name":"Orchis mascula "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"green-winged orchid "
+  ,"latin name":"Orchis morio"
+  ,"substrate":""
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"old pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"lemon-scented fern "
+  ,"latin name":"Oreopteris limbosperma"
+  ,"substrate":"acid"
+  ,"type":"open wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"thyme broomrape "
+  ,"latin name":"Orobanche alba "
+  ,"substrate":"marine calcareous"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"scree"
+  ,"size":"herb"
+},
+{
+   "english name":"tall broomrape "
+  ,"latin name":"Orobanche elatior"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"ivy broomrape "
+  ,"latin name":"Orobanche hederae "
+  ,"substrate":"coastal"
+  ,"type":"cliff, rocky"
+  ,"environment":""
+  ,"physical":"dune"
+  ,"size":"herb"
+},
+{
+   "english name":"carrot broomrape "
+  ,"latin name":"Orobanche maritima"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"royal fern "
+  ,"latin name":"Osmunda regalis"
+  ,"substrate":"fresh water"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"water margin"
+  ,"size":"fern"
+},
+{
+   "english name":"wood sorrel "
+  ,"latin name":"Oxalis acetosella  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"horse chestnut "
+  ,"latin name":"Pachycnemia hippocastana"
+  ,"substrate":""
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"common millet"
+  ,"latin name":"Panicum milliaceum"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"rough poppy "
+  ,"latin name":"Papaver hybridum "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"light"
+  ,"physical":"arable"
+  ,"size":"herb"
+},
+{
+   "english name":"poppy "
+  ,"latin name":"Papaver rhoes"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"curved hard grass"
+  ,"latin name":"Parapholis incurva"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"hard grass"
+  ,"latin name":"Parapholis strigosa"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"yellow bartsia "
+  ,"latin name":"Parentucellia viscosa  "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"flush"
+  ,"size":"herb"
+},
+{
+   "english name":"pellitory of the wall "
+  ,"latin name":"Parietaria judaica"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"herb paris "
+  ,"latin name":"Paris quadrifolia "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"grass of Parnassus"
+  ,"latin name":"Parnassia palustris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh lousewort "
+  ,"latin name":"Pedicularis palustris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"lousewort  "
+  ,"latin name":"Pedicularis sylvatica   "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"milk parsley "
+  ,"latin name":"Peucedanum palustre "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"reed canary grass"
+  ,"latin name":"Phalaris arundinacea"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"grass"
+},
+{
+   "english name":"common reed"
+  ,"latin name":"Phalaris australis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"grass"
+},
+{
+   "english name":"canary grass"
+  ,"latin name":"Phalaris cariensis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"sand cat's tail"
+  ,"latin name":"Phleum arenarium"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"smaller cat's tail"
+  ,"latin name":"Phleum bertolonii"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"timothy"
+  ,"latin name":"Phleum pratense"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"hart's-tongue fern "
+  ,"latin name":"Phyllitis scolopendrium"
+  ,"substrate":"calcareous"
+  ,"type":"shaded"
+  ,"environment":"humid"
+  ,"physical":"water margin"
+  ,"size":"fern"
+},
+{
+   "english name":"bladder-seed "
+  ,"latin name":"Physospermum cornubiense "
+  ,"substrate":"acid"
+  ,"type":"open wood"
+  ,"environment":""
+  ,"physical":"understory rough pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"Cornish bladderseed "
+  ,"latin name":"Physospermum cornubiense "
+  ,"substrate":"acid"
+  ,"type":"open wood"
+  ,"environment":""
+  ,"physical":"understory rough pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"Norway spruce "
+  ,"latin name":"Picea abies  "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"tree"
+},
+{
+   "english name":"bristly ox-tongue "
+  ,"latin name":"Picris echoides"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"heavy soils"
+  ,"physical":"rough pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"pillwort "
+  ,"latin name":"Pilularia globulifera "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"poached land"
+  ,"physical":"water margin"
+  ,"size":"fern"
+},
+{
+   "english name":"burnet saxifrage "
+  ,"latin name":"Pimpinella saxifraga,"
+  ,"substrate":"calcareous"
+  ,"type":"wood margin"
+  ,"environment":""
+  ,"physical":"rough pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"pale butterwort "
+  ,"latin name":"Pinguicala lusitanica"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"flush"
+  ,"size":"herb"
+},
+{
+   "english name":"butterwort  "
+  ,"latin name":"Pinguicula vulgaris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"maritime pine "
+  ,"latin name":"Pinus pinaster "
+  ,"substrate":"coastal"
+  ,"type":"maritime"
+  ,"environment":""
+  ,"physical":"sandy"
+  ,"size":"tree"
+},
+{
+   "english name":"Monterey pine "
+  ,"latin name":"Pinus radiata "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"Scot's pine "
+  ,"latin name":"Pinus sylvestris   "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"buck's-horn plantain "
+  ,"latin name":"Plantago coronopus "
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":"thin soil trampled"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"ribwort plantain "
+  ,"latin name":"Plantago lanceolata  "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea plantain "
+  ,"latin name":"Plantago maritima"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"hoary plantain "
+  ,"latin name":"Plantago media"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"well drained"
+  ,"physical":"rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"greater butterfly-orchid "
+  ,"latin name":"Plantanthra chlorantha"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"well drained"
+  ,"physical":"rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser butterfly orchid"
+  ,"latin name":"Platanthera bifolia "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"greater butterfly orchid"
+  ,"latin name":"Platanthera chlorantha "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"annual meadow grass"
+  ,"latin name":"Poa annua"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"spreading meadowgrass "
+  ,"latin name":"Poa subcaerulea"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"dune"
+  ,"size":"grass"
+},
+{
+   "english name":"bulbous meadowgrass "
+  ,"latin name":"Poa bulbosa"
+  ,"substrate":"marine"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"shingle"
+  ,"size":"grass"
+},
+{
+   "english name":"early meadow grass"
+  ,"latin name":"Poa infirma"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"smooth meadow grass"
+  ,"latin name":"Poa pratensis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"rough meadow grass"
+  ,"latin name":"Poa trivialis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"Jacob's ladder "
+  ,"latin name":"Polemonium caeruleum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"four-leaved allseed "
+  ,"latin name":"Polycarpon tetraphyllum "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"wasteground"
+  ,"size":"herb"
+},
+{
+   "english name":"heath milkwort "
+  ,"latin name":"Polygala serpyllifolia"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"amphibious bistort"
+  ,"latin name":"Polygonum amphibium"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"amphibious bistort "
+  ,"latin name":"Polygonum amphibium "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"sea knotgrass"
+  ,"latin name":"Polygonum maritimum "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"sand fine shingle"
+  ,"size":"herb"
+},
+{
+   "english name":"tasteless water-pepper "
+  ,"latin name":"Polygonum mitis"
+  ,"substrate":""
+  ,"type":"water margin"
+  ,"environment":"wet"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"Ray's knotgrass "
+  ,"latin name":"Polygonum oxyspermum subsp. Raii "
+  ,"substrate":"marine"
+  ,"type":"extreme high water mark"
+  ,"environment":""
+  ,"physical":"sand fine shingle"
+  ,"size":"herb"
+},
+{
+   "english name":"polypody "
+  ,"latin name":"Polypodium vulgare "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"well drained"
+  ,"physical":"understory"
+  ,"size":"fern"
+},
+{
+   "english name":"annual beard grass"
+  ,"latin name":"Polypogon monspeliensis"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"water bent"
+  ,"latin name":"Polypogon viridis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"soft shield-fern "
+  ,"latin name":"Polystichum setiferum"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":"shaded"
+  ,"size":"fern"
+},
+{
+   "english name":"black poplar "
+  ,"latin name":"Populus nigra "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"tree"
+},
+{
+   "english name":"aspen  "
+  ,"latin name":"Populus tremula   "
+  ,"substrate":"acid"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"curled pondweed"
+  ,"latin name":"Potamogeton crispus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"shining pondweed "
+  ,"latin name":"Potamogeton lucens"
+  ,"substrate":"fresh water"
+  ,"type":"calcium rich"
+  ,"environment":"wet"
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"broadleaved pondweed"
+  ,"latin name":"Potamogeton natans"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"broadleaved pondweed "
+  ,"latin name":"Potamogeton natans "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"fennel pondweed "
+  ,"latin name":"Potamogeton pectinatus"
+  ,"substrate":"brackish"
+  ,"type":"eutrophic"
+  ,"environment":"wet"
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"bog pond weed"
+  ,"latin name":"Potamogeton polygonifolius"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser pondweed "
+  ,"latin name":"Potamogeton pusillus"
+  ,"substrate":"brackish"
+  ,"type":"calcareous"
+  ,"environment":"wet"
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"hybrid pondweed"
+  ,"latin name":"Potamogeton x salicifolius"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"silverweed "
+  ,"latin name":"Potentilla anserina"
+  ,"substrate":"coastal"
+  ,"type":"upper saltmarsh"
+  ,"environment":"wet"
+  ,"physical":"waste ground"
+  ,"size":"herb"
+},
+{
+   "english name":"hoary cinquefoil "
+  ,"latin name":"Potentilla argentea"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"tormentil "
+  ,"latin name":"Potentilla erecta"
+  ,"substrate":""
+  ,"type":"flushes"
+  ,"environment":"wet"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh cinquefoil "
+  ,"latin name":"Potentilla palustris "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"fresh water standing"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"creeping cinquefoil "
+  ,"latin name":"Potentilla reptans"
+  ,"substrate":""
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"wasteground"
+  ,"size":"herb"
+},
+{
+   "english name":"barren strawberry "
+  ,"latin name":"Potentilla sterilis"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"purple lettuce "
+  ,"latin name":"Prenanthes purpurea  "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"cowslip "
+  ,"latin name":"Primula veris "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"old pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"primrose  "
+  ,"latin name":"Primula vulgaris   "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wild cherry "
+  ,"latin name":"Prunus avium  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"blackthorn "
+  ,"latin name":"Prunus spinosa"
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"blackthorn  "
+  ,"latin name":"Prunus spinosa   "
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"bracken "
+  ,"latin name":"Pteridium aquilinum "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"well drained"
+  ,"size":"fern"
+},
+{
+   "english name":"reflexed saltmarsh grass"
+  ,"latin name":"Puccinella distans subsp distans"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"Borrer's saltmarsh grass"
+  ,"latin name":"Puccinella fasciculata"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"saltmarsh grass"
+  ,"latin name":"Puccinella maritima"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"stiff saltmarsh grass"
+  ,"latin name":"Puccinellia rupestris"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"fleabane "
+  ,"latin name":"Pulicaria dysenterica"
+  ,"substrate":"fresh water"
+  ,"type":"water margin"
+  ,"environment":"humid"
+  ,"physical":"marsh / fen / roadside"
+  ,"size":"herb"
+},
+{
+   "english name":"narrow-leaved lungwort  "
+  ,"latin name":"Pulmonaria longifolia "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"heath"
+  ,"physical":"wood pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"wintergreens  "
+  ,"latin name":"Pyrola minor   "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"round-leaved wintergreen "
+  ,"latin name":"Pyrola rotundifolia ssp maritima"
+  ,"substrate":"marine calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"herb"
+},
+{
+   "english name":"sessile/durmast oak"
+  ,"latin name":"Quercus petraea"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"sessile/durmast oak "
+  ,"latin name":"Quercus petraea  "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"common oak "
+  ,"latin name":"Quercus robur"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"allseed "
+  ,"latin name":"Radiola linoides"
+  ,"substrate":"acid"
+  ,"type":"sandy ground"
+  ,"environment":"humid"
+  ,"physical":"grassland heath"
+  ,"size":"herb"
+},
+{
+   "english name":"buckthorn  "
+  ,"latin name":"Ramnus catharticus  "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"shrub"
+},
+{
+   "english name":"meadow buttercup "
+  ,"latin name":"Ranunculus acris  "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"water crowfoots"
+  ,"latin name":"Ranunculus aquaticus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"brackish water buttercup "
+  ,"latin name":"Ranunculus baudotii"
+  ,"substrate":"brackish"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"bulbous buttercup "
+  ,"latin name":"Ranunculus bulbosus "
+  ,"substrate":""
+  ,"type":"well drained soil"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser celandine"
+  ,"latin name":"Ranunculus ficaria "
+  ,"substrate":"coastal"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser spearwort "
+  ,"latin name":"Ranunculus flammula"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"marsh, fen, ditches, margins"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser spearwort "
+  ,"latin name":"Ranunculus flammula "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"water crowfoots"
+  ,"latin name":"Ranunculus fluitans"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"ivyleaved crowfoot"
+  ,"latin name":"Ranunculus hederaceus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"greater spearwort"
+  ,"latin name":"Ranunculus lingua"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"greater spearwort "
+  ,"latin name":"Ranunculus lingua "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"small-flowered buttercup"
+  ,"latin name":"Ranunculus parviflorus"
+  ,"substrate":"coastal"
+  ,"type":"cliff edge"
+  ,"environment":""
+  ,"physical":"grassy banks"
+  ,"size":"herb"
+},
+{
+   "english name":"chalk-stream water-crowfoot "
+  ,"latin name":"Ranunculus pencillatus var. calcareus "
+  ,"substrate":"calcareous river"
+  ,"type":""
+  ,"environment":"fast flowing"
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"river and stream water-crowfoot "
+  ,"latin name":"Ranunculus penicillatus ssp. Pseudofluitans"
+  ,"substrate":"fresh water"
+  ,"type":"rivers and streams"
+  ,"environment":"fast flowing"
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"creeping buttercup "
+  ,"latin name":"Ranunculus repens"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"celery leaved buttercup"
+  ,"latin name":"Ranunculus sceleratus"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"three-lobed crowfoot "
+  ,"latin name":"Ranunculus tripartitus "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"standing fresh water"
+  ,"physical":"wet mud"
+  ,"size":"herb"
+},
+{
+   "english name":"sea radish "
+  ,"latin name":"Raphanus maritimus "
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":"drift line"
+  ,"physical":"rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"Japanese knotweed"
+  ,"latin name":"Reynoutria japonica"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"yellow-rattle "
+  ,"latin name":"Rhinanthus minor"
+  ,"substrate":"calcareous"
+  ,"type":"nutrient poor"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"rhodedendron"
+  ,"latin name":"Rhododendron ponticum"
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"understory"
+  ,"size":"shrub"
+},
+{
+   "english name":"white-beak sedge "
+  ,"latin name":"Rhynchospora alba"
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":"sedge"
+},
+{
+   "english name":"blackcurrent  "
+  ,"latin name":"Ribes nigrum  "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"shrub"
+},
+{
+   "english name":"red currant "
+  ,"latin name":"Ribes sylvestris "
+  ,"substrate":"fresh water"
+  ,"type":"wood"
+  ,"environment":"stream margin"
+  ,"physical":"fen carr"
+  ,"size":"shrub"
+},
+{
+   "english name":"warren crocus "
+  ,"latin name":"Romulea columnae var occidentalis  "
+  ,"substrate":"marine"
+  ,"type":"open"
+  ,"environment":"sandy"
+  ,"physical":"short turf"
+  ,"size":"herb"
+},
+{
+   "english name":"great yellowcress"
+  ,"latin name":"Rorippa amphibia"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"creeping yellowcress"
+  ,"latin name":"Rorippa palustris"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh yellowcress"
+  ,"latin name":"Rorippa sylvestris"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"burnet rose "
+  ,"latin name":"Rosa pimpinellifolia  "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"sweet briar "
+  ,"latin name":"Rosa rubiginosa  "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"downy rose "
+  ,"latin name":"Rosa tomentosa"
+  ,"substrate":"acid"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"madder "
+  ,"latin name":"Rubia peregrina"
+  ,"substrate":"coastal"
+  ,"type":"scrub"
+  ,"environment":"coastal"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"dewberry  "
+  ,"latin name":"Rubus caesius  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"dewberry  "
+  ,"latin name":"Rubus caesius   "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"herb"
+},
+{
+   "english name":"endemic bramble species"
+  ,"latin name":"Rubus cornubiensis  "
+  ,"substrate":"acid"
+  ,"type":"wood scrub"
+  ,"environment":""
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"endemic bramble species"
+  ,"latin name":"Rubus daveyi"
+  ,"substrate":"acid"
+  ,"type":"wood scrub"
+  ,"environment":""
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"endemic bramble species"
+  ,"latin name":"Rubus dumnoniensis"
+  ,"substrate":"acid"
+  ,"type":"wood scrub"
+  ,"environment":""
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"bramble "
+  ,"latin name":"Rubus fruticosus"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"endemic bramble species"
+  ,"latin name":"Rubus rilstone"
+  ,"substrate":"acid"
+  ,"type":"wood scrub"
+  ,"environment":""
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"stone bramble "
+  ,"latin name":"Rubus saxatilis"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"shrub"
+},
+{
+   "english name":"common sorrel "
+  ,"latin name":"Rumex acetosa "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"well drained"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sheep's sorrel "
+  ,"latin name":"Rumex acetosella  "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"curled doc"
+  ,"latin name":"Rumex crispus"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"wet"
+  ,"physical":"flushes fixes shingle"
+  ,"size":"herb"
+},
+{
+   "english name":"Argentine dock "
+  ,"latin name":"Rumex frutescens"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"dune"
+  ,"size":"herb"
+},
+{
+   "english name":"water dock"
+  ,"latin name":"Rumex hydrolapathum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"broadleaved dock "
+  ,"latin name":"Rumex obtusifolia"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"fiddledock "
+  ,"latin name":"Rumex pulcher"
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":"well drained"
+  ,"physical":"short grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"shore dock"
+  ,"latin name":"Rumex rupestris"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"wet"
+  ,"physical":"flushes"
+  ,"size":"herb"
+},
+{
+   "english name":"spiral tassel-weeds "
+  ,"latin name":"Ruppia cirrhosa"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":"standing water"
+  ,"physical":"brackish"
+  ,"size":"herb"
+},
+{
+   "english name":"beaked tassel-weeds "
+  ,"latin name":"Ruppia maritime"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":"standing water"
+  ,"physical":"brackish"
+  ,"size":"herb"
+},
+{
+   "english name":"butcher's-broom "
+  ,"latin name":"Ruscus aculeatus"
+  ,"substrate":"coastal"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"heath pearlwort "
+  ,"latin name":"Sagina subulata"
+  ,"substrate":"acid"
+  ,"type":"coastal"
+  ,"environment":"dry"
+  ,"physical":"dune slack, heath, cliff top"
+  ,"size":"herb"
+},
+{
+   "english name":"arowhead"
+  ,"latin name":"Sagittaria sagittifolia"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"glassworts "
+  ,"latin name":"Salicornia europea"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"wet"
+  ,"physical":"mud"
+  ,"size":"herb"
+},
+{
+   "english name":"white willow "
+  ,"latin name":"Salix alba "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"tree"
+},
+{
+   "english name":"goat willow "
+  ,"latin name":"Salix caprea"
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"goat willow "
+  ,"latin name":"Salix caprea "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"shrub"
+},
+{
+   "english name":"goat willow "
+  ,"latin name":"Salix caprea "
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"tree"
+},
+{
+   "english name":"grey willow "
+  ,"latin name":"Salix cinerea "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"shrub"
+},
+{
+   "english name":"grey willow "
+  ,"latin name":"Salix cinerea "
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"tree"
+},
+{
+   "english name":"crack willow "
+  ,"latin name":"Salix fragilis "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"tree"
+},
+{
+   "english name":"creeping willow "
+  ,"latin name":"Salix repens "
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"shrub"
+},
+{
+   "english name":"creeping willow "
+  ,"latin name":"Salix repens  "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"shrub"
+},
+{
+   "english name":"saltwort  "
+  ,"latin name":"Salsola kali"
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"wet"
+  ,"physical":"foreshore  "
+  ,"size":"herb"
+},
+{
+   "english name":"wild clary "
+  ,"latin name":"Salvia verbanaca"
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"well drained"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"elder "
+  ,"latin name":"Sambucus nigra"
+  ,"substrate":"neutral"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"brookweed "
+  ,"latin name":"Samolus valerandi "
+  ,"substrate":"calcareous or brackish"
+  ,"type":"spring lines open ditches"
+  ,"environment":"water margin"
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"salad burnet "
+  ,"latin name":"Sanguisorba minor  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"great burnet "
+  ,"latin name":"Sanguisorba officinalis  "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sanicle  "
+  ,"latin name":"Sanicula europaea   "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"broom "
+  ,"latin name":"Sarothamnus scoparius "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"light sandy soil"
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"meadow saxifrage "
+  ,"latin name":"Saxifraga granulata "
+  ,"substrate":"neutral - calcareous"
+  ,"type":"open"
+  ,"environment":"well drained"
+  ,"physical":"rough pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"rue leaved saxifrage"
+  ,"latin name":"Saxifraga tridactylites "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"small scabious "
+  ,"latin name":"Scabiosa columbaria "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"annual knawel"
+  ,"latin name":"Sceranthus annuus"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"common club rush"
+  ,"latin name":"Schoenoplectus lacustris"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"rush"
+},
+{
+   "english name":"grey club rush"
+  ,"latin name":"Schoenoplectus tabernaemontani"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"rush"
+},
+{
+   "english name":"triangular club-rush "
+  ,"latin name":"Schoenoplectus triqueter"
+  ,"substrate":"brackish"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"bank tidal river"
+  ,"size":"sedge"
+},
+{
+   "english name":"black bog-rush "
+  ,"latin name":"Schoenus nigricans"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"autumn squill "
+  ,"latin name":"Scilla autunalis"
+  ,"substrate":"coastal"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"spring squill"
+  ,"latin name":"Scilla verna"
+  ,"substrate":"coastal"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"round headed club rush"
+  ,"latin name":"Scirpoides holoschoenus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"round headed club rush"
+  ,"latin name":"Scirpoides holoschoenus"
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"wet"
+  ,"physical":"dune slack  "
+  ,"size":"rush"
+},
+{
+   "english name":"wood club rush"
+  ,"latin name":"Scirpus sylvaticus"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"rush"
+},
+{
+   "english name":"water figwort"
+  ,"latin name":"Scrophularia auriculata"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"common figwort"
+  ,"latin name":"Scrophularia nodosa"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"balm-leaved figwort "
+  ,"latin name":"Scrophularia scorodonia"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":"hedge banks, cliff tops"
+  ,"physical":"dune"
+  ,"size":"herb"
+},
+{
+   "english name":"skullcap "
+  ,"latin name":"Scutellaria galericulata "
+  ,"substrate":"calcareous"
+  ,"type":""
+  ,"environment":"dune slack, wet meadow, fen"
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser skullcap "
+  ,"latin name":"Scutellaria minor "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"wood rides"
+  ,"physical":"flushes"
+  ,"size":"herb"
+},
+{
+   "english name":"wall-pepper  "
+  ,"latin name":"Sedum acre  "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"English stonecrop "
+  ,"latin name":"Sedum anglicum "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"rock stonecrop"
+  ,"latin name":"Sedum rupestre"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"orpine "
+  ,"latin name":"Sedum telephium "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"wood margins"
+  ,"size":"herb"
+},
+{
+   "english name":"alpine ragwort "
+  ,"latin name":"Senechio fuchsii  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh ragwort "
+  ,"latin name":"Senecio aquaticus "
+  ,"substrate":"fresh water"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"damp meadow, marsh, fen"
+  ,"size":"herb"
+},
+{
+   "english name":"hoary ragwort "
+  ,"latin name":"Senecio erucifolius"
+  ,"substrate":"calcareous or clay"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"shingle or dune"
+  ,"size":"herb"
+},
+{
+   "english name":"ragwort  "
+  ,"latin name":"Senecio jacobaea   "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"herb"
+},
+{
+   "english name":"grounsel "
+  ,"latin name":"Senecio vulgaris"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"saw wort "
+  ,"latin name":"Serratula tinctoria  "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"autumn moor grass"
+  ,"latin name":"Sesleria autumnalis"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"yellow bristle grass"
+  ,"latin name":"Setaria pumila"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"green bristle grass"
+  ,"latin name":"Setaria viridis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"Cornish moneywort "
+  ,"latin name":"Sibthorpia europea"
+  ,"substrate":"marine"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"flush"
+  ,"size":"herb"
+},
+{
+   "english name":"pepper saxifrage "
+  ,"latin name":"Silaum silaus  "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"red campion "
+  ,"latin name":"Silene dioca  "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"sea campion "
+  ,"latin name":"Silene maritima "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"Nottingham catchfly "
+  ,"latin name":"Silene nutans "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"sticky catchfly"
+  ,"latin name":"Silene viscara"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"charlock "
+  ,"latin name":"Sinapsis arvensis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"great water parsnip"
+  ,"latin name":"Sium latifolium"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"Alexanders "
+  ,"latin name":"Smyrnium olustratum "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"hedge banks, cliff tops"
+  ,"physical":"rough pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"bittersweet  "
+  ,"latin name":"Solanum dolcamara  "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"goldenrod "
+  ,"latin name":"Solidago virgaurea "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"stream sides"
+  ,"physical":"heath"
+  ,"size":"herb"
+},
+{
+   "english name":"perennial sow- thistle "
+  ,"latin name":"Sonchus arvensis "
+  ,"substrate":"water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"stream banks, arable, verges, sea wall, drift line"
+  ,"size":"herb"
+},
+{
+   "english name":"prickly sow-thistle "
+  ,"latin name":"Sonchus asper"
+  ,"substrate":"water"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"stream banks, arable, verges, sea wall, drift line"
+  ,"size":"herb"
+},
+{
+   "english name":"whitebeams "
+  ,"latin name":"Sorbus aria"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"rowan "
+  ,"latin name":"Sorbus aucuparia"
+  ,"substrate":"acid"
+  ,"type":"scrub"
+  ,"environment":"dry"
+  ,"physical":"heath"
+  ,"size":"tree"
+},
+{
+   "english name":"wild service tree"
+  ,"latin name":"Sorbus torminalis"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"unbranched bur reed"
+  ,"latin name":"Sparganium emersum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"reed"
+},
+{
+   "english name":"branched bur reed"
+  ,"latin name":"Sparganium erectum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"reed"
+},
+{
+   "english name":"branched bur-reed "
+  ,"latin name":"Sparganium erectum "
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"small bur-reed "
+  ,"latin name":"Sparganium minimum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"reed"
+},
+{
+   "english name":"common cord grass"
+  ,"latin name":"Spartina anglica"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"small cord grass"
+  ,"latin name":"Spartina maritimum"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"Townsend's cord grass"
+  ,"latin name":"Spartina townsendii"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"grass"
+},
+{
+   "english name":"sand spurry "
+  ,"latin name":"Spergula arvensis"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea spurrey "
+  ,"latin name":"Spergularia marina"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"wet"
+  ,"physical":"lower saltmarsh"
+  ,"size":"herb"
+},
+{
+   "english name":"rock spurrey "
+  ,"latin name":"Spergularia rupicola "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"rocky"
+  ,"physical":"cliff"
+  ,"size":"herb"
+},
+{
+   "english name":"autumn lady's tresses "
+  ,"latin name":"Spiranthes spiralis "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"meadow, dune, cliff top"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh woundwort"
+  ,"latin name":"Stachys pelustris"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"hedge woundwort "
+  ,"latin name":"Stachys sylvatica"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser stitchwort "
+  ,"latin name":"Stellaria graminea"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"common stitchwort"
+  ,"latin name":"Stellaria holostea"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"bog stichwort "
+  ,"latin name":"Stellaria uliginosa"
+  ,"substrate":"acid"
+  ,"type":"wet wood"
+  ,"environment":"wet"
+  ,"physical":"stream sides"
+  ,"size":"herb"
+},
+{
+   "english name":"common feather grass"
+  ,"latin name":"Stipa pennata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"water soldier"
+  ,"latin name":"Stratiotes aloides"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"shrubby seablite "
+  ,"latin name":"Suaeda vera "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"shingle"
+  ,"physical":"shingle banks "
+  ,"size":"herb"
+},
+{
+   "english name":"awlwort"
+  ,"latin name":"Subularia aquatica"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"devil's-bit scabious "
+  ,"latin name":"Succisa pratensis"
+  ,"substrate":"mildly acid to calcareous"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"meadow"
+  ,"size":"herb"
+},
+{
+   "english name":"common seablite "
+  ,"latin name":"Sueda maritima"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"wet"
+  ,"physical":"lower saltmarsh"
+  ,"size":"herb"
+},
+{
+   "english name":"common comfrey"
+  ,"latin name":"Symphytum officinale"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"common comfrey "
+  ,"latin name":"Symphytum officinale "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"common comfrey  "
+  ,"latin name":"Symphytum officinale  "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"dandelion "
+  ,"latin name":"Taraxicum officianalis"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"yew "
+  ,"latin name":"Taxus baccata"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"shepherd's Cress "
+  ,"latin name":"Teesdalia nudicaulis  "
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"water germander "
+  ,"latin name":"Teucrium scordium"
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"river banks, fen, dune slack"
+  ,"size":"herb"
+},
+{
+   "english name":"wood sage "
+  ,"latin name":"Teucrium scorodonia "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":"rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"common meadow rue"
+  ,"latin name":"Thalictrum flavum"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"bastard toadflax"
+  ,"latin name":"Thesium humifusum "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"short turf"
+  ,"size":"herb"
+},
+{
+   "english name":"alpine pennycress "
+  ,"latin name":"Thlaspi caerulescens"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"wild thyme "
+  ,"latin name":"Thymus polytrichus"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"lime  "
+  ,"latin name":"Tilia cordata"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"lime  "
+  ,"latin name":"Tilia vulgaris "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"goat's-beard "
+  ,"latin name":"Tragopogon pratensis"
+  ,"substrate":""
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"water chestnut"
+  ,"latin name":"Trapa natans"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"deergrass, deer sedge"
+  ,"latin name":"Trichophorum cespitosum"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"sedge"
+},
+{
+   "english name":"chickweed wintergreen "
+  ,"latin name":"Trientalis europeus "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"twin-headed clover "
+  ,"latin name":"Trifolium bocconei "
+  ,"substrate":"coastal over serpentine"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"short open grazed turf"
+  ,"size":"herb"
+},
+{
+   "english name":"strawberry clover "
+  ,"latin name":"Trifolium fragiferum "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"brackish grazing marsh"
+  ,"size":"herb"
+},
+{
+   "english name":"clustered clover "
+  ,"latin name":"Trifolium glomeratum"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"short open grazed turf"
+  ,"size":"herb"
+},
+{
+   "english name":"long-headed clover "
+  ,"latin name":"Trifolium incarnatum subsp. molineri "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"western clover"
+  ,"latin name":"Trifolium occidentale "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"short open grazed turf"
+  ,"size":"herb"
+},
+{
+   "english name":"bird's-foot clover "
+  ,"latin name":"Trifolium ornithopodioides "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"short open grazed turf"
+  ,"size":"herb"
+},
+{
+   "english name":"red clover "
+  ,"latin name":"Trifolium pratense"
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":"pasture, meadow"
+  ,"size":"herb"
+},
+{
+   "english name":"rough clover "
+  ,"latin name":"Trifolium scabrum"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"short open grazed turf"
+  ,"size":"herb"
+},
+{
+   "english name":"sea clover "
+  ,"latin name":"Trifolium squamosum"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"knotted clover "
+  ,"latin name":"Trifolium striatum "
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":"dry sandy soil"
+  ,"physical":"heath dune grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"subterranean clover"
+  ,"latin name":"Trifolium subterraneum "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"compacted, sandy soil"
+  ,"physical":"short open grazed turf"
+  ,"size":"herb"
+},
+{
+   "english name":"suffocated clover "
+  ,"latin name":"Trifolium suffocatum"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"short open grazed turf"
+  ,"size":"herb"
+},
+{
+   "english name":"sea arrrowgrass "
+  ,"latin name":"Triglochin maritima"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"dry saltmarsh"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"marsh arrow grass "
+  ,"latin name":"Triglochin palustris "
+  ,"substrate":"calcareous or mildly acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"meadow, fen, marsh, flushes"
+  ,"size":"herb"
+},
+{
+   "english name":"honewort "
+  ,"latin name":"Trinia glauca"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"sea mayweed "
+  ,"latin name":"Tripleurospermun maritimum "
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"shingle"
+  ,"physical":"shingle banks "
+  ,"size":"herb"
+},
+{
+   "english name":"yellow oat grass"
+  ,"latin name":"Trisetum flavescens"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"colt's-foot "
+  ,"latin name":"Tussilago farfara "
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"shingle, dune, eroding cliff, river bank, waste ground"
+  ,"physical":"disturbed ground"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser bulrush"
+  ,"latin name":"Typha angustifolia"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"rush"
+},
+{
+   "english name":"bulrush"
+  ,"latin name":"Typha latifolia"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"rush"
+},
+{
+   "english name":"reedmace "
+  ,"latin name":"Typha latifolia "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"reed"
+},
+{
+   "english name":"gorse "
+  ,"latin name":"Ulex europeus"
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"dry"
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"gorse  "
+  ,"latin name":"Ulex europeus   "
+  ,"substrate":"acid"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"shrub"
+},
+{
+   "english name":"western gorse "
+  ,"latin name":"Ulex gallii "
+  ,"substrate":"acid"
+  ,"type":"scrub"
+  ,"environment":"well drained"
+  ,"physical":"sandy"
+  ,"size":"shrub"
+},
+{
+   "english name":"dwarf gorse "
+  ,"latin name":"Ulex minor "
+  ,"substrate":"acid"
+  ,"type":"scrub"
+  ,"environment":"well drained"
+  ,"physical":"sandy, cliff top"
+  ,"size":"shrub"
+},
+{
+   "english name":"wych elm "
+  ,"latin name":"Ulmus glabra"
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"wych elm "
+  ,"latin name":"Ulmus glabra  "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"Dutch elm "
+  ,"latin name":"Ulmus hollandica"
+  ,"substrate":""
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"Cornish elm "
+  ,"latin name":"Ulmus minor var. cornubiensis "
+  ,"substrate":""
+  ,"type":"wood"
+  ,"environment":""
+  ,"physical":""
+  ,"size":"tree"
+},
+{
+   "english name":"nettle"
+  ,"latin name":"Urtica diocia"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"water margin"
+  ,"size":"herb"
+},
+{
+   "english name":"nettle "
+  ,"latin name":"Urtica urens"
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"bladderwort"
+  ,"latin name":"Urticularia vulgaris"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"deeper water"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser bladderwort "
+  ,"latin name":"Utricularia minor "
+  ,"substrate":"acid"
+  ,"type":"bog pools"
+  ,"environment":"fresh water standing"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"billberry "
+  ,"latin name":"Vaccinium myrtillus"
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"dry"
+  ,"physical":"heath"
+  ,"size":"shrub"
+},
+{
+   "english name":"cranberry  "
+  ,"latin name":"Vaccinium oxycoccos  "
+  ,"substrate":"acid"
+  ,"type":"dwarf shrub"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"shrub"
+},
+{
+   "english name":"cowberry  "
+  ,"latin name":"Vaccinium vitis-idaea   "
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh valerian "
+  ,"latin name":"Valeriana dioica "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"herb"
+},
+{
+   "english name":"common valerian "
+  ,"latin name":"Valeriana officinal "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"marsh, fen, wet wood, pasture"
+  ,"size":"herb"
+},
+{
+   "english name":"hairy-fruited cornsalad "
+  ,"latin name":"Valerianella eriocarpa"
+  ,"substrate":"coastal"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"dune"
+  ,"size":"herb"
+},
+{
+   "english name":"twiggy mullein "
+  ,"latin name":"Verbascum virgatum"
+  ,"substrate":"coastal cliff"
+  ,"type":"open"
+  ,"environment":""
+  ,"physical":"waste ground, shingle"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh speedwell "
+  ,"latin name":"Veronica acutellata "
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"shallow margins, hillside flushes"
+  ,"size":"herb"
+},
+{
+   "english name":"water speedwell"
+  ,"latin name":"Veronica anagallis-aquatica"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"brooklime"
+  ,"latin name":"Veronica beccabunga"
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"shallow water"
+  ,"size":"herb"
+},
+{
+   "english name":"pink water-speedwell "
+  ,"latin name":"Veronica catenata "
+  ,"substrate":"fresh water"
+  ,"type":""
+  ,"environment":"acid"
+  ,"physical":"shallow margins, hillside flushes"
+  ,"size":"herb"
+},
+{
+   "english name":"common field speedwell"
+  ,"latin name":"Veronica persica"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"spiked speedwell "
+  ,"latin name":"Veronica spicata"
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"rock"
+  ,"size":"herb"
+},
+{
+   "english name":"wayfaring tree "
+  ,"latin name":"Viburnum lantana  "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"humid"
+  ,"physical":""
+  ,"size":"shrub"
+},
+{
+   "english name":"gelder rose "
+  ,"latin name":"Viburnum opulus "
+  ,"substrate":"calcareous"
+  ,"type":"scrub"
+  ,"environment":"wet"
+  ,"physical":"fen"
+  ,"size":"shrub"
+},
+{
+   "english name":"yellow vetch "
+  ,"latin name":"Vicea lutea "
+  ,"substrate":"marine"
+  ,"type":"shingle"
+  ,"environment":"fixed shingle "
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"Bithynian vetch "
+  ,"latin name":"Vicia bithynica"
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"rough grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"tufted vetch "
+  ,"latin name":"Vicia cracca "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"wet"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wood vetch"
+  ,"latin name":"Vicia sylvatica"
+  ,"substrate":"coastal"
+  ,"type":"wood shady cliffs"
+  ,"environment":"rocky"
+  ,"physical":"scrub"
+  ,"size":"herb"
+},
+{
+   "english name":"lesser periwinkle "
+  ,"latin name":"Vina minor"
+  ,"substrate":"acid"
+  ,"type":"wood"
+  ,"environment":"dry"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"wild pansy "
+  ,"latin name":"Viola arvensis  "
+  ,"substrate":"marine"
+  ,"type":"sandy  "
+  ,"environment":"fixed dune"
+  ,"physical":""
+  ,"size":"herb"
+},
+{
+   "english name":"heath dog violet "
+  ,"latin name":"Viola canina"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"hairy violet "
+  ,"latin name":"Viola hirta  "
+  ,"substrate":"calcareous"
+  ,"type":"open"
+  ,"environment":"humid"
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"pale dog- violet "
+  ,"latin name":"Viola lactea"
+  ,"substrate":"coastal"
+  ,"type":""
+  ,"environment":""
+  ,"physical":"grassland"
+  ,"size":"herb"
+},
+{
+   "english name":"marsh violet "
+  ,"latin name":"Viola palustris"
+  ,"substrate":"acid"
+  ,"type":"open"
+  ,"environment":"wet"
+  ,"physical":"bog"
+  ,"size":"herb"
+},
+{
+   "english name":"wood dog violet"
+  ,"latin name":"Viola riviniana "
+  ,"substrate":"calcareous"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"common dog violet "
+  ,"latin name":"Viola riviniana "
+  ,"substrate":"neutral"
+  ,"type":"wood"
+  ,"environment":"humid"
+  ,"physical":"understory"
+  ,"size":"herb"
+},
+{
+   "english name":"squirrel tail fescue "
+  ,"latin name":"Vulpia bromoides "
+  ,"substrate":"marine"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"dune"
+  ,"size":"grass"
+},
+{
+   "english name":"dune fescue"
+  ,"latin name":"Vulpia fasciculata"
+  ,"substrate":"marine"
+  ,"type":"upper shore"
+  ,"environment":"sandy  "
+  ,"physical":"mobile dune "
+  ,"size":"grass"
+},
+{
+   "english name":"rat's tail fescue"
+  ,"latin name":"Vulpia myuros"
+  ,"substrate":"neutral"
+  ,"type":"open"
+  ,"environment":"dry"
+  ,"physical":"grassland"
+  ,"size":"grass"
+},
+{
+   "english name":"ivy-leaved bellflower "
+  ,"latin name":"Wahlenbergia hederacea"
+  ,"substrate":"acid"
+  ,"type":""
+  ,"environment":"wet"
+  ,"physical":"wood flushes, stream margins"
+  ,"size":"herb"
+},
+{
+   "english name":"eelgrass "
+  ,"latin name":"Zostera marina"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"wet"
+  ,"physical":"mud"
+  ,"size":"herb"
+},
+{
+   "english name":"dwarf eelgrass"
+  ,"latin name":"Zostera nolti"
+  ,"substrate":"marine"
+  ,"type":"lower shore"
+  ,"environment":"wet"
+  ,"physical":"mud"
+  ,"size":"herb"
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+},
+{
+   "english name":""
+  ,"latin name":""
+  ,"substrate":""
+  ,"type":""
+  ,"environment":""
+  ,"physical":""
+  ,"size":""
+}
+];
