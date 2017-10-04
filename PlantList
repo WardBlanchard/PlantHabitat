@@ -1,3 +1,4 @@
+let plant = [
 {
    "englishName": "field maple ",
    "latinName": "Acer campestre",
@@ -7369,3 +7370,4 @@
    "physical": "mud",
    "size": "herb"
  }
+ ]
